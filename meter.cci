@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:40835494
+NODE:I LEVEL:0 LINE:9 "C:\cvavr\inc\math.h"
+NODE:I LEVEL:0 LINE:10 "C:\cvavr\inc\stdlib.h"
+NODE:I LEVEL:0 LINE:11 "C:\Users\ismai\OneDrive\Desktop\ssd2119\meter.h"
+NODE:I LEVEL:0 LINE:12 "C:\cvavr\inc\font5x7.h"
+NODE:M LEVEL:0 LINE:15 "METER_START_ANGLE"
+NODE:M LEVEL:0 LINE:16 "METER_END_ANGLE"
+NODE:F LEVEL:0 LINE:19 "print_scale(struct meter_t * pm,float angle,int value)"
+NODE:F LEVEL:0 LINE:31 "display_indicator(struct meter_t * pm,GLCDCOL_t color)"
+NODE:F LEVEL:0 LINE:67 "meter_init(struct meter_t * pm)"
+NODE:F LEVEL:0 LINE:113 "meter_update(struct meter_t * pm,int value)"
